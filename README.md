@@ -21,5 +21,6 @@
 <img align= "center" alt= "spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/></div>
 <div style="display: inline_block">
 <img align= "center" alt= "mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/></div>
-
+<div style="display: inline_block"></br>
+<img align="center" alt= "phyton" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/></div>
 ### 💻❤️ amante de tecnologia, buscando uma nova oportunidade de jobs na area!🚀🚀
